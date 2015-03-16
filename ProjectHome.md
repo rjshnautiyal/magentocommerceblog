@@ -1,0 +1,1 @@
+Blog to share knowledge of magento
